@@ -1,0 +1,11 @@
+﻿
+.dashboard a {
+    color: #ebebeb;
+}
+
+.dashboard:hover {
+    background-color: #e12500;
+}
+.tiva-slideshow-wrapper{
+    margin-top:-20px;
+}
